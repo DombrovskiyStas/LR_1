@@ -1,6 +1,6 @@
-Ì³é ïåðøèé ðåïîçèòîð³é
+ÐœÑ–Ð¹ Ð¿ÐµÑ€ÑˆÐ¸Ð¹ Ñ€ÐµÐ¿Ð¾Ð·Ð¸Ñ‚Ð¾Ñ€Ñ–Ð¹
 
-…or create a new repository on the command line
+â€¦or create a new repository on the command line
 echo "# LR_1" >> README.md
 git init
 git add README.md
